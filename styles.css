@@ -5,10 +5,15 @@
 }
 h1 {
     color:white;
-    margin-top: 75px;
+    margin-top: 55px;
 }
 img {
     width: 30%;
     height: auto;
     margin-top: 50px;
+}
+.brandlogo {
+
+width:3%;
+height:auto;
 }
